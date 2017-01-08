@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
+    <post></post>
   </div>
 </template>
 
 <script>
-import Hello from './components/Hello'
+import SyuhoPost from './components/syuho/Post'
 
 export default {
   name: 'app',
   components: {
-    Hello
+    SyuhoPost
   }
 }
 </script>
