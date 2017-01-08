@@ -1,0 +1,19 @@
+{
+  "name": "syu-ho-front",
+  "version": "0.0.1",
+  "description": "shu-ho-web-front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syu-Ho/Syu-Ho-Front.git"
+  },
+  "author": "GOOD HOP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Syu-Ho/Syu-Ho-Front/issues"
+  },
+  "homepage": "https://github.com/Syu-Ho/Syu-Ho-Front#readme"
+}
