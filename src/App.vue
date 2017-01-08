@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <post></post>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import SyuhoPost from './components/syuho/Post'
+import Root from './components/syuho/Root.vue'
 
 export default {
   name: 'app',
   components: {
-    SyuhoPost
+    Root
   }
 }
 </script>
